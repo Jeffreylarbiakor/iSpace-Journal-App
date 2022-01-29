@@ -1,4 +1,4 @@
-# IspaceAndroidEvening
+# iSpace Journal App
 
 Evening Repository
 ------
