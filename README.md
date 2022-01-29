@@ -1,5 +1,5 @@
 # iSpace Journal App
-------
+
 Public repository
 ![TheMaster](https://github.com/Jeffreylarbiakor/iSpace-Bootcamp/blob/main/bandicam%202022-01-29%2015-29-13-028.jpg)
 ![TheMaster](https://github.com/Jeffreylarbiakor/iSpace-Bootcamp/blob/main/bandicam%202022-01-29%2015-29-22-260.jpg)
@@ -22,8 +22,6 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
-    implementation 'com.github.bumptech.glide:glide:4.12.0'
-    annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
 }
 ```
 
