@@ -24,8 +24,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 }
 ```
-
- Usage
+ 
+Usage
 -----
 ```xml
  <androidx.constraintlayout.widget.ConstraintLayout
